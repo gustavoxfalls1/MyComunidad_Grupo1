@@ -1,8 +1,8 @@
-package com.example.appmycomunidad_grupo1.ui.viewmodel
+package com.example.appmycomunidad_grupo1.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.appmycomunidad_grupo1.ui.data.model.Post
+import com.example.appmycomunidad_grupo1.data.model.Post
 import com.example.appmycomunidad_grupo1.ui.repository.PostRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

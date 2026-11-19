@@ -1,6 +1,6 @@
-package com.example.appmycomunidad_grupo1.ui.data.remote
+package com.example.appmycomunidad_grupo1.data.remote
 
-import com.example.appmycomunidad_grupo1.ui.data.model.Post
+import com.example.appmycomunidad_grupo1.data.model.Post
 import retrofit2.http.GET
 
 // Esta interfaz define los endpoints HTTP

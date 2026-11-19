@@ -1,4 +1,4 @@
-package com.example.appmycomunidad_grupo1.ui.data.model
+package com.example.appmycomunidad_grupo1.data.model
 
 import retrofit2.http.Body
 

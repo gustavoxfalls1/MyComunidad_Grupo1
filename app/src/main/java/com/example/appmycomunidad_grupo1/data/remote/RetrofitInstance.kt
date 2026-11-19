@@ -1,4 +1,4 @@
-package com.example.appmycomunidad_grupo1.ui.data.remote
+package com.example.appmycomunidad_grupo1.data.remote
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
